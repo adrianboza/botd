@@ -62,4 +62,4 @@ async def loop():
         json.dump(f, file, indent=2, separators=(',', ': '))
 
 
-client.run('NzkwMzAyMTk1MzU4MzY3Nzk1.X9-oRg.H9F_l9ugwIm3BKQqb6au2LxT9Lk')
+client.run('TOKEN')
